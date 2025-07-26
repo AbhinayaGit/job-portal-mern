@@ -1,12 +1,63 @@
-# React + Vite
+# 🧑‍💼 Job Portal Web App (MERN Stack) – In Progress
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack Job Portal application that allows job seekers to browse and apply for jobs and recruiters to post and manage job listings.
 
-Currently, two official plugins are available:
+This project is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The frontend is fully implemented using React, and the backend is currently in progress.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features (Frontend Completed)
+- 👤 User Registration and Login Pages
+- 💼 Job Listings UI with filters
+- 🧑‍💼 Recruiter Dashboard
+- 📋 Application Submission Interface
+- ⚙️ Responsive Design with Tailwind CSS
+- ⚛️ Context API for global state management
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🏗️ Backend (In Progress)
+- 🔐 User authentication with JWT
+- 📄 Resume upload and storage
+- 🗂️ CRUD APIs for jobs and applications
+- 🧾 MongoDB integration using Mongoose
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS
+- **Backend**: Node.js, Express.js (in progress)
+- **Database**: MongoDB (in progress)
+- **Tools**: Git, GitHub, Vite
+
+---
+
+## 📁 Project Status
+| Section     | Status         |
+|-------------|----------------|
+| Frontend    | ✅ Completed    |
+| Backend     | 🚧 In Progress |
+| Deployment  | 🚧 Coming Soon |
+
+---
+
+## 📸 Screenshots
+*(Coming soon...)*
+
+---
+
+## 👩‍💻 Author
+**Abhinaya K**  
+[GitHub Profile](https://github.com/AbhinayaGit)  
+📧 abhinaya1120@gmail.com  
+
+---
+
+## 📂 GitHub Repository
+[🔗 View the Repo](https://github.com/AbhinayaGit/job-portal-mern)
+
+---
+
+## ⭐ Notes
+This project is under active development. Backend API integration, authentication, and deployment will be completed soon.
+
